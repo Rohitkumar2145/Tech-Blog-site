@@ -1,0 +1,10 @@
+.items {
+  width: 70%;
+  margin: auto;
+}
+
+.title {
+  font-size: 3rem;
+  font-weight: bolder;
+  text-align: center;
+}

@@ -1,0 +1,24 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem 8rem;
+  background-color: #17252a;
+}
+
+.subnav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 200px;
+}
+
+.options {
+  font-size: 1.5rem;
+  color: whitesmoke;
+}
+
+.logo {
+  font-size: 3rem;
+  color: #31b1ad;
+  font-weight: bolder;
+}
